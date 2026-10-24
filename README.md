@@ -6,11 +6,26 @@ Public marketing site for Zyvor Campus — Campus Premiere edition. The applicat
 
 ![Zyvor Campus](docs/assets/readme-hero.png)
 
-## Live premiere
+## Try the lab
 
 [https://175-110-122-71.sslip.io:20443](https://175-110-122-71.sslip.io:20443)
 
-Use the URL with **`:20443`**. Self-signed lab TLS — Advanced → proceed. Demo: `student@campus.local` / `CampusDemo!2026`.
+1. Use the URL with **`:20443`** (required).
+2. Self-signed lab TLS → **Advanced → Proceed**.
+3. On Sign in, tap **Student demo** / **Admin demo**, or sign in manually.
+
+**Password (all demo roles):** `CampusDemo!2026`
+
+| Role | Email |
+|------|--------|
+| Student | `student@campus.local` |
+| Admin | `admin@campus.local` |
+| Faculty | `faculty@campus.local` |
+| Finance | `finance@campus.local` |
+| Librarian | `librarian@campus.local` |
+| Parent | `parent@campus.local` |
+
+Demo cast only — never reuse on a real campus.
 
 ## Honest cuts
 
