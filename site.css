@@ -197,3 +197,16 @@ body{font-size:17px;line-height:1.47;letter-spacing:-.011em;text-rendering:optim
 .lede{font-weight:400}
 .top nav a:hover,.cta a:hover{text-decoration:none}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* Bright scenes */
+.hero{background:#5e5ce6}
+.hero .bg{background:radial-gradient(45% 40% at 18% 22%,#ffd60a99 0%,transparent 60%),radial-gradient(50% 45% at 82% 78%,#ff375fcc 0%,transparent 58%),radial-gradient(40% 40% at 70% 18%,#64d2ffaa 0%,transparent 60%),linear-gradient(135deg,#0071e3,#5e5ce6 45%,#bf5af2)}
+.veil{background:linear-gradient(transparent 60%,#1d1d1f40 100%)}
+.now{background:#ffffff33;border-color:#ffffff55;color:#fff}
+.brand-hero em,.lede{color:#ffffffdd}
+.mark{box-shadow:0 16px 48px #0003}
+.pill,.cta .pill{background:#fff;color:var(--apple)!important}
+.pill:hover{background:#f5f5f7}
+.honesty{background:linear-gradient(135deg,#1d1d1f,#2c2c3e)}
+.honesty .eyebrow{color:#ffd60a}
+.honesty li{color:#c7c7cc}
