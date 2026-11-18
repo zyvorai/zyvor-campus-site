@@ -1,5 +1,7 @@
 # Zyvor Campus
 
+[Client overview (PDF)](docs/Zyvor-Campus-Client-Overview.pdf)
+
 **Your semester. Rated remarkable.**
 
 Public marketing site for Zyvor Campus — Campus Premiere edition. The application source is private; this repository holds website content only.
